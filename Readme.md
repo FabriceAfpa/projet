@@ -5,3 +5,4 @@ Quelques étapes :
 * Création, dans ce répertoire, du fichier présent Readme.md
 * Promenade dans les commits
 * Travail dans les commits
+* Modification du dernier commit
