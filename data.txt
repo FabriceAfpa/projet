@@ -4,3 +4,5 @@ Bonjour amigo
 Hello
 
 Conflit est parmi nous !!!
+
+Boule --> stagiaire --> Boule
